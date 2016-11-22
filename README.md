@@ -1,2 +1,3 @@
 # hello-world
-The first step of great way
+
+I'm Russian enthusiast, wanted to learn web-developing.
